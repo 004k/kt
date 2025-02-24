@@ -1,1 +1,1 @@
-this is KT FC Tool without nocta's dumb code to slap his own name on it DEFUNCT THE MEXICANS!
+this is the KT FC Tool without the code that adds usernames to the exported list
