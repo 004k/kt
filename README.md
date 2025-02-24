@@ -1,5 +1,6 @@
-this is the KT FC Tool without the code that adds usernames to the exported list
+# KT FC TOOL
 
+Simple Friend Code Utility Discord Bot without the exported usernames
 
 
                       /^--^\     /^--^\     /^--^\
